@@ -1,7 +1,7 @@
-import React from 'react';
 import classnames from 'classnames';
-import type { LegendIconProps } from './types';
+import React from 'react';
 import './index.less';
+import type { LegendIconProps } from './types';
 
 export const CLS_PREFIX = 'larkmap-legend-icon';
 
